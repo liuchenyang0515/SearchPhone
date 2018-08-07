@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SearchPhone</string>
+    <string name="title">手机号码归属地查询</string>
+    <string name="text">手机号码查询</string>
+    <string name="hint">请输入手机号码查询</string>
+    <string name="button_text">查询</string>
+    <string name="textview_text">查询结果</string>
+    <string name="phone_num">手机号：</string>
+    <string name="province">省份：</string>
+    <string name="phone_type">运营商：</string>
+    <string name="type">归属运营商：</string>
+</resources>
